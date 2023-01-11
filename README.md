@@ -12,6 +12,6 @@ https://blog.encrypted.gg
 ### 바킹독님 문제집 링크
 https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 
-### 강의 간단한 리뷰 및 문제풀이 설명
+### 저의 강의 간단한 리뷰 및 문제풀이 설명
 https://mz-moonzoo.tistory.com/11
 
